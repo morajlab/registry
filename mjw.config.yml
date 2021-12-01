@@ -1,0 +1,3 @@
+dependencies:
+  - name: "npm"
+    url: "https://github.com/morajlab/node-modules.git"
